@@ -1,0 +1,20 @@
+<map id="pre/duplication_finder_tool.hpp" name="pre/duplication_finder_tool.hpp">
+<area shape="rect" id="Node000001" title="Main duplication detection tool interface." alt="" coords="34,5,177,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,168,59,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,48,60,95,48,125,40,153,35,152,43,123,55,93,87,45"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="70,94,141,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,46,108,78,103,78,103,46"/>
+<area shape="rect" id="Node000004" href="$parser_8hpp.html" title="Code duplication results parser." alt="" coords="165,94,246,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,44,180,82,177,86,128,49"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="177,123,74,165,72,160,175,118"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="83,168,141,193"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="191,122,141,160,138,156,188,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="164,168,204,193"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="204,121,195,153,189,152,199,119"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="227,168,293,193"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="216,118,244,154,240,157,212,122"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="316,168,382,193"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="231,118,313,158,310,163,229,123"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="407,168,481,193"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="247,118,393,161,391,166,245,123"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="tests/e2e/codebase/test_multiple_file_equal_code/code.c" name="tests/e2e/codebase/test_multiple_file_equal_code/code.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,5,148,61"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,109,65,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,62,51,96,46,94,64,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,109,162,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,60,115,94,110,96,92,62"/>
+</map>

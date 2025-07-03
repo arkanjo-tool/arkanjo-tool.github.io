@@ -1,0 +1,12 @@
+<map id="base/windows_utils.cpp" name="base/windows_utils.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,5,205,31"/>
+<area shape="rect" id="Node000002" href="$windows__utils_8hpp.html" title="Windows&#45;specific utility functions." alt="" coords="62,79,189,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,31,128,63,123,63,123,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,59,178"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="104,34,76,53,52,80,40,109,35,138,30,137,35,107,47,78,72,49,101,29"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="214,79,285,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,29,217,69,214,73,145,34"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,107,61,145,58,141,108,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="91,153,160,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="128,105,128,137,123,137,123,105"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="tests/e2e/codebase/test_multiple_file_big_functions_against_small/big.c" name="tests/e2e/codebase/test_multiple_file_big_functions_against_small/big.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,160,76"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="10,124,70,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,77,54,111,49,108,64,75"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="94,124,156,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,75,116,108,111,111,96,77"/>
+</map>

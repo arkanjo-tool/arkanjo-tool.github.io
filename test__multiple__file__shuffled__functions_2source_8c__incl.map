@@ -1,0 +1,7 @@
+<map id="tests/e2e/codebase/test_multiple_file_shuffled_functions/source.c" name="tests/e2e/codebase/test_multiple_file_shuffled_functions/source.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,61"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,109,82,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,62,69,96,64,94,82,60"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="107,109,180,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="114,60,132,94,127,96,110,62"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="tests/e2e/expected/tmp/header" name="tests/e2e/expected/tmp/header">
+<area shape="rect" id="node2" href="dir_ccbf3e0a5ada5b9a3262177a889a6887.html" title="test_multiple_file\l_big_functions_against_small" alt="" coords="122,63,315,104"/>
+<area shape="rect" id="node3" href="dir_b9d6f9e9b7621b9f3ba2b025362899f8.html" title="test_multiple_file\l_equal_code" alt="" coords="340,63,458,104"/>
+<area shape="rect" id="node4" href="dir_3934b67a7d5bf84a0f3356f95a0fce74.html" title="test_multiple_file\l_shuffled_functions" alt="" coords="482,63,614,104"/>
+<area shape="rect" id="node5" href="dir_64cbb41102b94bf0c07785fbca941c5a.html" title="test_multiple_file\l_similiar_function" alt="" coords="639,63,761,104"/>
+<area shape="rect" id="node6" href="dir_a06c4efb8dc43ebf156c7c4ee366a0f5.html" title="test_same_file_big\l_function_against_small.c" alt="" coords="785,63,956,104"/>
+<area shape="rect" id="node7" href="dir_c10af67f40f401fb10d0a5e3d287481d.html" title="test_same_file_different\l_functions_same_logic.c" alt="" coords="980,63,1145,104"/>
+<area shape="rect" id="node8" href="dir_09c043901e33d33bfb5b958e0844db4b.html" title="test_same_file_equal\l_functions.c" alt="" coords="1168,63,1312,104"/>
+<area shape="rect" id="node9" href="dir_5872f6c3051318e4049e08b11d2c4bbe.html" title="test_same_file_similar\l_functions.c" alt="" coords="1336,63,1486,104"/>
+<area shape="rect" id="clust2" href="dir_6b5e44f88414f009d8b6374ee9322c85.html" alt="" coords="27,52,1496,114"/>
+<area shape="rect" id="clust1" href="dir_554aa802fc039fb8605a99bd07a8a397.html" title="tmp" alt="" coords="16,16,1507,125"/>
+</map>
