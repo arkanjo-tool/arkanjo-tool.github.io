@@ -1,0 +1,23 @@
+<map id="src/commands/pre/duplication_finder_tool.hpp" name="src/commands/pre/duplication_finder_tool.hpp">
+<area shape="rect" id="Node000001" title="Main duplication detection tool interface." alt="" coords="382,5,577,46"/>
+<area shape="rect" id="Node000002" href="$parser_8hpp.html" title="Code duplication results parser." alt="" coords="281,94,363,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,49,361,89,359,84,439,44"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="427,168,481,193"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="479,47,461,153,456,152,473,46"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="505,168,584,193"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="490,45,536,152,531,154,485,47"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="542,94,614,120"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="505,44,553,82,549,86,502,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="329,168,403,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,118,353,153,348,156,327,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,168,71,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="281,121,86,169,85,164,280,116"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="94,168,160,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="290,123,176,164,174,159,288,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="185,168,224,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="303,122,239,162,236,157,301,118"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="346,118,420,158,417,162,343,123"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="248,168,305,193"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="317,121,295,156,290,153,312,118"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="361,118,493,160,492,165,359,123"/>
+</map>

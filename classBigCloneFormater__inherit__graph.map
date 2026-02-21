@@ -1,0 +1,7 @@
+<map id="BigCloneFormater" name="BigCloneFormater">
+<area shape="rect" id="Node000001" title="Formats clone detection results for BigCloneBench evaluation." alt="" coords="61,153,186,178"/>
+<area shape="rect" id="Node000002" href="$classCommandBase.html" title=" " alt="" coords="5,79,242,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,120,126,152,121,152,121,120"/>
+<area shape="rect" id="Node000003" href="$classICommand.html" title="Basic interface for all CLI commands." alt="" coords="81,5,166,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,46,126,79,121,79,121,46"/>
+</map>

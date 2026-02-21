@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['s_20patches_0',['Students&apos;s Patches',['../md_docs_2PATCHES__MAC0470__5856__2025.html#autotoc_md2',1,'']]],
+  ['set_5fformatter_1',['set_formatter',['../classFormatterManager.html#a33a49b5733a36a15410c36d0a7c55878',1,'FormatterManager']]],
+  ['setdefaultconfig_2',['setDefaultConfig',['../classConfig.html#a3d2a81b7509e42ca7da0e5955c0aea49',1,'Config']]],
+  ['settestconfig_3',['setTestConfig',['../classConfig.html#a6dc1f7b1c87527053280cce4cb25dbc4',1,'Config']]],
+  ['setup_5fcommand_5fstep_4',['setup_command_step',['../namespaceOrchestratorHelper.html#ac9d5dca049782ff981ba66f7bf0641ba',1,'OrchestratorHelper']]],
+  ['short_5fopts_5',['short_opts',['../classICommand.html#afe931b4adf25911cbfd8828e5a05c986',1,'ICommand::short_opts()'],['../classCommandBase.html#a42ea931ff8d68d84c9c3b7c0be85d332',1,'CommandBase::short_opts()']]],
+  ['short_5fopts_5f_6',['short_opts_',['../classSimilarityExplorer.html#a18985a9aa9d0a208c3187912373e82be',1,'SimilarityExplorer']]],
+  ['similar_5ffunction_5ffinder_2ecpp_7',['similar_function_finder.cpp',['../similar__function__finder_8cpp.html',1,'']]],
+  ['similar_5ffunction_5ffinder_2ehpp_8',['similar_function_finder.hpp',['../similar__function__finder_8hpp.html',1,'']]],
+  ['similarfunctionfinder_9',['SimilarFunctionFinder',['../classSimilarFunctionFinder.html',1,'']]],
+  ['similarity_10',['Similarity',['../index.html#autotoc_md3',1,'']]],
+  ['similarity_11',['similarity',['../structComparation.html#a1e585bb85ef2c0690c40c3652bceead2',1,'Comparation']]],
+  ['similarity_5fexplorer_2ecpp_12',['similarity_explorer.cpp',['../similarity__explorer_8cpp.html',1,'']]],
+  ['similarity_5fexplorer_2ehpp_13',['similarity_explorer.hpp',['../similarity__explorer_8hpp.html',1,'']]],
+  ['similarity_5fstep_14',['similarity_step',['../namespaceOrchestratorHelper.html#a7598fd6a406f596dfc0d66d6deabf909',1,'OrchestratorHelper']]],
+  ['similarity_5ftable_15',['Similarity_Table',['../classSimilarity__Table.html',1,'Similarity_Table'],['../classSimilarity__Table.html#a2a4703c08a255444950055041905ab9d',1,'Similarity_Table::Similarity_Table(double _similarity_threshold)'],['../classSimilarity__Table.html#aa2b6b79ada7c70429b678e6570a54c34',1,'Similarity_Table::Similarity_Table()']]],
+  ['similarity_5ftable_2ecpp_16',['similarity_table.cpp',['../similarity__table_8cpp.html',1,'']]],
+  ['similarity_5ftable_2ehpp_17',['similarity_table.hpp',['../similarity__table_8hpp.html',1,'']]],
+  ['similarityexplorer_18',['SimilarityExplorer',['../classSimilarityExplorer.html',1,'']]],
+  ['skip_19',['skip',['../classOrchestrator.html#a6a906acab3a1e35348f5ee7ce723fc78',1,'Orchestrator']]],
+  ['source_5fpath_20',['SOURCE_PATH',['../function__breaker__util_8hpp.html#a42e3ba2809066eb6a55ea07b49d2bc30',1,'function_breaker_util.hpp']]],
+  ['split_5fstring_21',['split_string',['../namespaceUtils.html#a26f841fd7d71004c236fce08b725475c',1,'Utils']]],
+  ['step_22',['Step',['../orchestrator_8hpp.html#a89f3e35ccbaf9b906c1e3b1e5ebb2dad',1,'orchestrator.hpp']]],
+  ['students_20s_20patches_23',['Students&apos;s Patches',['../md_docs_2PATCHES__MAC0470__5856__2025.html#autotoc_md2',1,'']]]
+];

@@ -1,0 +1,57 @@
+<map id="include/arkanjo/cli/parser_options.hpp" name="include/arkanjo/cli/parser_options.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="440,5,574,46"/>
+<area shape="rect" id="Node000002" href="$options__collector_8hpp.html" title=" " alt="" coords="45,382,193,423"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,54,358,87,274,134,233,163,195,195,161,232,132,273,121,300,116,330,118,382,113,382,111,330,116,299,127,270,156,229,191,191,230,158,272,129,356,82,431,49"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title=" " alt="" coords="126,479,221,504"/>
+<area shape="poly" id="edge32_Node000001_Node000003" title=" " alt="" coords="425,41,300,64,164,98,104,120,55,145,22,172,14,187,11,202,11,301,10,370,16,398,36,429,55,447,78,461,126,479,124,484,75,466,52,451,32,432,12,400,4,371,6,300,6,201,9,185,18,169,52,140,101,115,162,93,299,58,424,36"/>
+<area shape="rect" id="Node000004" href="$command_8hpp.html" title=" " alt="" coords="632,94,808,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="570,50,673,91,671,96,568,55"/>
+<area shape="rect" id="Node000008" href="$orchestrator__helper_8hpp.html" title=" " alt="" coords="875,390,1053,416"/>
+<area shape="poly" id="edge33_Node000001_Node000008" title=" " alt="" coords="512,61,521,119,539,191,554,228,572,264,594,297,622,325,652,346,679,358,706,364,733,366,792,364,825,366,863,372,921,387,920,392,862,378,825,371,792,370,733,371,705,370,678,364,649,351,619,329,590,300,567,267,549,230,534,193,515,120,507,62"/>
+<area shape="rect" id="Node000021" href="$orchestrator_8hpp.html" title="Main command orchestration interface." alt="" coords="142,286,347,312"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="479,59,258,288,254,284,476,56"/>
+<area shape="rect" id="Node000022" href="$parser__options_8cpp.html" title=" " alt="" coords="833,102,1002,127"/>
+<area shape="poly" id="edge31_Node000001_Node000022" title=" " alt="" coords="590,42,860,98,859,103,589,47"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,435,168,477,164,480,137,438"/>
+<area shape="rect" id="Node000005" href="$command__base_8hpp.html" title=" " alt="" coords="937,183,1114,223"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="805,137,957,180,956,185,804,142"/>
+<area shape="rect" id="Node000006" href="$big__clone__formater_8hpp.html" title="BigCloneEval format conversion interface." alt="" coords="840,279,1006,320"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="995,236,946,280,942,277,991,232"/>
+<area shape="rect" id="Node000009" href="$big__clone__tailor__evaluator_8hpp.html" title="BigCloneBench evaluation interface * Provides evaluation metrics compatible with BigCloneBench datase..." alt="" coords="1030,279,1229,320"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="1060,232,1110,277,1106,280,1057,236"/>
+<area shape="rect" id="Node000011" href="$counter__duplication__code_8hpp.html" title="Code duplication reporting system." alt="" coords="1254,271,1408,327"/>
+<area shape="poly" id="edge12_Node000005_Node000011" title=" " alt="" coords="1105,226,1254,272,1253,277,1103,231"/>
+<area shape="rect" id="Node000013" href="$similarity__explorer_8hpp.html" title="Duplicate function exploration interface." alt="" coords="1433,279,1589,320"/>
+<area shape="poly" id="edge15_Node000005_Node000013" title=" " alt="" coords="1130,216,1269,238,1421,269,1448,276,1447,281,1420,274,1268,244,1129,221"/>
+<area shape="rect" id="Node000015" href="$similar__function__finder_8hpp.html" title="Similar function locator interface." alt="" coords="1614,279,1792,320"/>
+<area shape="poly" id="edge18_Node000005_Node000015" title=" " alt="" coords="1129,209,1348,231,1475,248,1602,269,1634,276,1633,281,1601,274,1475,253,1347,236,1129,215"/>
+<area shape="rect" id="Node000017" href="$help_8hpp.html" title=" " alt="" coords="371,286,558,312"/>
+<area shape="poly" id="edge21_Node000005_Node000017" title=" " alt="" coords="923,224,621,274,536,288,535,283,620,269,922,219"/>
+<area shape="rect" id="Node000019" href="$random__selector_8hpp.html" title="Random selection of similar code pairs." alt="" coords="633,279,816,320"/>
+<area shape="poly" id="edge24_Node000005_Node000019" title=" " alt="" coords="949,231,788,281,787,276,947,226"/>
+<area shape="rect" id="Node000007" href="$big__clone__formater_8cpp.html" title=" " alt="" coords="685,382,851,423"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="882,330,799,384,797,380,879,326"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="939,333,962,389,957,391,934,335"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="910,423,863,433,678,459,495,476,222,491,221,486,495,471,678,454,862,428,909,418"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="1086,330,986,392,983,387,1083,326"/>
+<area shape="rect" id="Node000010" href="$big__clone__tailor__evaluator_8cpp.html" title=" " alt="" coords="1078,382,1277,423"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1148,333,1171,381,1166,383,1143,335"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="1240,330,1012,392,1010,387,1238,325"/>
+<area shape="rect" id="Node000012" href="$counter__duplication__code_8cpp.html" title=" " alt="" coords="1302,375,1456,431"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1353,340,1368,373,1364,376,1348,342"/>
+<area shape="poly" id="edge17_Node000013_Node000008" title=" " alt="" coords="1434,326,1421,330,1322,347,1243,354,1165,362,1066,378,1007,392,1005,387,1065,372,1165,356,1243,349,1321,341,1420,324,1433,321"/>
+<area shape="rect" id="Node000014" href="$similarity__explorer_8cpp.html" title=" " alt="" coords="1481,382,1637,423"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1529,333,1552,381,1547,383,1524,335"/>
+<area shape="poly" id="edge20_Node000015_Node000008" title=" " alt="" coords="1620,326,1602,330,1521,342,1452,349,1334,354,1216,359,1147,365,1066,378,1005,392,1004,387,1065,372,1146,360,1215,353,1333,348,1451,343,1520,337,1601,324,1619,321"/>
+<area shape="rect" id="Node000016" href="$similar__function__finder_8cpp.html" title=" " alt="" coords="1662,382,1840,423"/>
+<area shape="poly" id="edge19_Node000015_Node000016" title=" " alt="" coords="1721,333,1744,381,1739,383,1716,335"/>
+<area shape="poly" id="edge23_Node000017_Node000008" title=" " alt="" coords="528,314,577,324,720,348,863,372,922,387,921,392,862,378,719,353,576,330,526,319"/>
+<area shape="rect" id="Node000018" href="$help_8cpp.html" title=" " alt="" coords="267,390,454,416"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="443,325,374,391,371,388,439,321"/>
+<area shape="poly" id="edge26_Node000019_Node000008" title=" " alt="" coords="785,323,937,387,934,392,783,328"/>
+<area shape="rect" id="Node000020" href="$random__selector_8cpp.html" title=" " alt="" coords="478,382,661,423"/>
+<area shape="poly" id="edge25_Node000019_Node000020" title=" " alt="" coords="683,330,601,384,598,380,680,326"/>
+<area shape="poly" id="edge28_Node000021_Node000002" title=" " alt="" coords="219,324,145,384,142,380,216,320"/>
+<area shape="poly" id="edge29_Node000021_Node000003" title=" " alt="" coords="240,328,226,377,207,432,183,479,178,477,202,430,221,375,235,327"/>
+<area shape="poly" id="edge30_Node000021_Node000008" title=" " alt="" coords="306,314,359,324,500,342,611,347,722,353,863,372,925,387,924,392,862,378,722,359,611,352,500,347,359,330,305,319"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="SimilarFunctionFinder" name="SimilarFunctionFinder">
+<area shape="rect" id="Node000001" title="Similar function locator and reporter." alt="" coords="37,168,185,193"/>
+<area shape="rect" id="Node000002" href="$classCommandBase.html" title=" " alt="" coords="5,79,217,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,135,114,167,108,167,108,135"/>
+<area shape="rect" id="Node000003" href="$classICommand.html" title="Basic interface for all CLI commands." alt="" coords="69,5,153,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,46,114,79,108,79,108,46"/>
+</map>
