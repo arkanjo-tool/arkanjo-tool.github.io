@@ -1,9 +1,0 @@
-<map id="CLIError" name="CLIError">
-<area shape="rect" id="Node000001" title="Base class for CLI&#45;related errors." alt="" coords="138,79,208,105"/>
-<area shape="rect" id="Node000003" href="$classCommandNotFoundError.html" title="An error is thrown when an unknown command is passed." alt="" coords="5,153,170,178"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,117,103,154,100,150,145,113"/>
-<area shape="rect" id="Node000004" href="$classOptionMissingError.html" title="An error is thrown when a required option is not provided." alt="" coords="194,153,325,178"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,113,247,150,243,154,198,117"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="112,5,234,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,46,176,79,170,79,170,46"/>
-</map>

@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['validate_0',['validate',['../classICommand.html#a7320e1ba08ab150e4750472e84148298',1,'ICommand::validate()'],['../classBigCloneFormater.html#ad3f734ebf5e8826af580cda1aab10fe0',1,'BigCloneFormater::validate()'],['../classBigCloneTailorEvaluator.html#adc5371cef99f5472aabba7011a0a8bec',1,'BigCloneTailorEvaluator::validate()'],['../classCounterDuplicationCode.html#af3eab4459c2594971e92d88919dbfb30',1,'CounterDuplicationCode::validate()'],['../classSimilarityExplorer.html#a59a13c74b3dd78b1b6560ac9502ea4e0',1,'SimilarityExplorer::validate()'],['../classSimilarFunctionFinder.html#a60c5584c07b731811260a067cd645ffb',1,'SimilarFunctionFinder::validate()'],['../classHelp.html#a9918feb4d5c7a69670fd8885919b6734',1,'Help::validate()'],['../classRandomSelector.html#ac4b91a9eef114df7b4caaa9fa1d69973',1,'RandomSelector::validate()']]]
-];
